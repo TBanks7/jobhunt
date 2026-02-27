@@ -2,7 +2,7 @@
 # Install with: pip install -r requirements.txt
 
 # Job scraping
-jobspy>=0.31.0
+python-jobspy>=0.31.0
 
 # Anthropic Claude API
 anthropic>=0.25.0
